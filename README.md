@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nithinag10
 - 👀 I’m interested in understanding humans.
-- 🌱 I’m currently learning softwear engineering.
+- 🌱 I’m currently a softwear engineering.
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me nithinag10@gmail.com
 
