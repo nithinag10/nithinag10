@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nithinag10
-- 👀 I’m interested in understanding humans.
+- 👀 I’m interested in tech and its awesomeness . 
 - 🌱 I’m currently a software engineering.
-- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me nithinag10@gmail.com
 
 <!---
